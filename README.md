@@ -2,7 +2,7 @@
 Explore machine learning models to predict borrower behavior in loan repayment scenarios. Utilizing historical data, assess the likelihood of loan default and enhance lending decisions with accurate predictive analytics.
 
 
-##Workflow
+# Workflow
 
 *1. Exploratory Data Analysis (EDA)*
 The first step involves exploring the dataset to gain insights into its structure, features, and distributions. EDA helps in understanding the characteristics of the data and identifying any patterns or trends that may be relevant for predictive modeling.
